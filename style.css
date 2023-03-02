@@ -1,0 +1,65 @@
+img, embed, object, video{
+    max-width: 100%;
+}
+
+nav, a, button{
+    min-width: 48px;
+    min-height: 48px;
+}
+body{
+background-color: rgb(117, 112, 112);
+
+    
+}
+h1 {
+text-align: center;
+font-style: italic;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+color:azure;
+font-size:55px ;
+background-color:rgb(17, 14, 14)  ;
+
+}
+
+
+
+
+form{
+margin-left: 20%;
+font-size:40px ;
+margin-top: 10%;
+color: rgb(255, 255, 255);
+font-style: italic;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+
+
+}
+input {
+
+width: 200px;
+height: 30px;
+text-align: center;
+font-style: italic;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+color:rgb(0, 0, 0);
+
+}
+button{
+font-size: 55%;
+
+background-color: rgb(68, 63, 63);
+ width: 200px;
+ height: 30px;
+color: aliceblue;font-style: italic;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+height: 40px;
+width: 200px;
+text-align: center;
+
+}
+.botao{
+
+text-align: center;
+font-size: 300%;
+
+}
